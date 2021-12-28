@@ -1,5 +1,8 @@
 # About Project
 
+![secondScreenshot-3dIcon-Animation](https://user-images.githubusercontent.com/77200196/147604714-e51c156e-c5b4-4a9e-9d49-17c3be6e6461.png)
+
+
 Este repositório é um remake do project do canal " Online Tutorials ", no Youtube. Gostei bastante do efeito, e tenho objetivo também de aplicar em uns side-projects meu, então tive a ideia de treinar este efeito e postar aqui no github.
 
 ## Required hyper-link
