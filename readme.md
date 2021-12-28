@@ -7,7 +7,7 @@ Este repositório é um remake do project do canal " Online Tutorials ", no Yout
 
 ## Required hyper-link
 
-é * requirido * o hyper-link ( <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> ) para conseguir receber os icons quando adicionado as atribuições (class=""), ver os icons.
+é * requirido * o hyper-link ( href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" ) para conseguir receber os icons quando adicionado as atribuições (class=""), ver os icons.
 
 ### Required class=""
 
